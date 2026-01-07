@@ -31,7 +31,7 @@ Built using **Retrieval-Augmented Generation (RAG)**, this tool extracts transac
 ### ⚙️ How to Run Locally
 
 **1. Clone the repository**
-```bash
+```bash```
 git clone [https://github.com/yourusername/secure-finance-rag.git](https://github.com/yourusername/secure-finance-rag.git)
 cd secure-finance-rag
 
