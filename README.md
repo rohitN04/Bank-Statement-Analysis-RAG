@@ -32,8 +32,8 @@ Built using **Retrieval-Augmented Generation (RAG)**, this tool extracts transac
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/secure-finance-rag.git](https://github.com/yourusername/secure-finance-rag.git)
-cd secure-finance-rag
+git clone https://github.com/rohitN04/Bank-Statement-Analysis-RAG.git
+cd Bank-Statement-Analysis-RAG
 ```
 **2. Install dependencies**
 ```bash
