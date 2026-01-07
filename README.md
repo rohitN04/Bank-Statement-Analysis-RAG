@@ -50,6 +50,9 @@ OPENAI_KEY="your_openai_api_key"
 ```bash
 streamlit run src/app.py
 ```
+
+---
+
 ### 📊 Logic Overview
 
 The application follows a standard RAG (Retrieval-Augmented Generation) pipeline with added security layers:
