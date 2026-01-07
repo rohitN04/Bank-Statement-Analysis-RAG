@@ -3,4 +3,3 @@ supabase
 python-dotenv
 PyPDF2
 openai
-json
