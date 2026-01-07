@@ -35,16 +35,17 @@ Built using **Retrieval-Augmented Generation (RAG)**, this tool extracts transac
 git clone [https://github.com/yourusername/secure-finance-rag.git](https://github.com/yourusername/secure-finance-rag.git)
 cd secure-finance-rag
 
-2. Install dependencies
+**2. Install dependencies**
 pip install -r requirements.txt
 
-3. Set up Environment Variables Create a .env file in the root directory and add your API keys:
+**3. Set up Environment Variables**
+Create a .env file in the root directory and add your API keys:
 Code snippet
 SUPABASE_URL="your_supabase_url"
 SUPABASE_KEY="your_supabase_anon_key"
 OPENAI_KEY="your_openai_api_key"
 
-4. Run the app
+**4. Run the app**
 streamlit run src/app.py
 
 📊 Logic Overview
